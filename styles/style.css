@@ -168,6 +168,107 @@ body{
 
 /* Features Section End */
 
+/* Features Summary Section Start */
 
+.features-summary{
+    margin: 130px 240px;
+    display: flex;
+    align-items: center;
+}
+.features-summary-details{
+    width: 586px;
+    height: 982px;
+}
+.features-summary-title{
+    border-left: 5px solid #FF900E;
+    padding-left: 21px;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #131313;
+}
+
+.features-summary-description{
+    padding-top: 24px;
+    margin-bottom: 30px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+}
+
+.features-summary-image{
+    width: 800px;
+    height: 1059px;
+    margin-left: 84px;
+}
+
+.features-summary-items{
+    width: 586px;
+    height: 744px;
+}
+.features-summary-item{
+    margin-top: 20px;
+    width: 586px;
+    height: 171px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+}
+.features-summary-item h3{
+    padding-top: 30px;
+    padding-left: 33px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    color: #131313;
+}
+.features-summary-item p{
+    padding-left: 33px;
+    padding-top: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+}
+
+
+.features-summary-button{
+    display: flex;
+    justify-content: center;
+}
+
+.features-summary-button > button{
+    width: 342px;
+    height: 200px;
+    left: 880px;
+    top: 3104px;
+    background: #FF900E;
+    border-radius: 8px;
+    border: none;
+    margin-top: -320px;
+    margin-left: 150px;
+}
+.features-summary-button1{
+   margin-top: 45px;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 70px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #FF900E;
+    border: none;
+}
+.features-summary-button2{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 40px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #FF900E;
+    border: none;
+}
+
+/* Features Summary Section End */
 
     
