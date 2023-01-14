@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    max-width: 1920px;
+    max-height: 4760px;
+}
+
+/* Header Section  */
+
+.header-container{
+    background: rgba(255, 144, 14, 0.1);
+    width: 1920px;
+    height: 1322px;
+}
+.menu-title{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #131313;
+    margin-left: 228px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.menu-items{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 477px;
+    height: 26px;
+    margin-right: 240px;
+}
+.item{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    color: #424242;
+}
+
+.header-details{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.header-info{
+    padding-top: 205px;
+    padding-left: 530px;
+    padding-right: 530px;
+    width: 862px;
+    height: 225px;
+}
+
+.header-info-title{
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+}
+
+.header-info-description{
+    padding-top: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+}
+
+.header-info-button{
+    width: 180px;
+    height: 64px;
+    margin-top: 32px;
+    background: #FF900E;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+}
