@@ -351,6 +351,7 @@ body{
     margin-top: 180px;
     margin-left: 690px ;
     margin-right: 690px;
+    margin-left: 690px;
     width: 542px;
     height: 129px;
 }
@@ -387,6 +388,60 @@ body{
 
 /* Our Sponsors End */
 
+/* Extra Section Start  */
+
+.upcoming-design-details{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.upcoming-design-details-image{
+    border: 2px solid salmon;
+    margin-top: 85px;
+    margin-left: 301px;
+    height: 600px;
+    width: 600px;
+}
+
+.upcoming-design h2{
+    text-align: center;
+    margin-top: 180px;
+    margin-left: 690px ;
+    margin-right: 690px;
+    margin-left: 690px;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #eb0909;
+    background-color: #f0ece7;
+}
+.upcoming-design h2:hover{
+    background-color: #FF900E;
+    color: #FFF4E7;
+}
+
+.upcoming-design-info{
+    margin-top: 200px;
+    width: 600px;
+    height: 600px;
+}
+
+.upcoming-design-info h3{
+    font-size: 45px;
+    margin-bottom: 50px;
+    padding-right: 300px;
+    text-align: center;
+    color: #eb0909;
+}
+
+.upcoming-design-info p{
+    padding-right: 300px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #727272;
+}
 
 /* Footer Section Start  */
 
